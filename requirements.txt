@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+requests
+random
+folium
+streamlit_folium
+base64
