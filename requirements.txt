@@ -1,7 +1,6 @@
+pandas
 streamlit
-google-generativeai
 requests
-random
+streamlit-folium
 folium
-streamlit_folium
-base64
+google-generativeai
